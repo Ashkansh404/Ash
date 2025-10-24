@@ -1,0 +1,10 @@
+# ========== Core Dependencies ==========
+# Python Telegram Bot (v20+)
+python-telegram-bot==21.7
+# HTTP Requests
+requests==2.32.3
+urllib3==2.2.3
+
+# ========== Optional Dependencies (not required) ==========
+# If you want to use pandas for future enhancements (currently not used)
+# pandas>=2.0.0
