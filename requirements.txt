@@ -1,0 +1,50 @@
+# Military Flight Tracker Bot - Requirements
+# Version: 2.0 - Advanced Intelligence System
+
+# Core Python packages
+python-telegram-bot>=21.0
+requests>=2.31.0
+urllib3>=2.0.0
+pandas>=2.0.0
+aiohttp>=3.8.0
+
+# Google AI packages
+google-generativeai>=0.3.0
+
+# Database packages
+sqlite3  # Built-in with Python
+
+# Data processing
+numpy>=1.24.0
+
+# Logging and monitoring
+colorlog>=6.7.0
+
+# Performance and utilities
+asyncio  # Built-in with Python
+threading  # Built-in with Python
+dataclasses  # Built-in with Python 3.7+
+pathlib  # Built-in with Python 3.4+
+hashlib  # Built-in with Python
+pickle  # Built-in with Python
+gzip  # Built-in with Python
+json  # Built-in with Python
+datetime  # Built-in with Python
+typing  # Built-in with Python 3.5+
+enum  # Built-in with Python 3.4+
+signal  # Built-in with Python
+traceback  # Built-in with Python
+io  # Built-in with Python
+os  # Built-in with Python
+sys  # Built-in with Python
+time  # Built-in with Python
+logging  # Built-in with Python
+
+# Optional packages for enhanced functionality
+# Uncomment if you want additional features
+# matplotlib>=3.7.0  # For data visualization
+# plotly>=5.15.0     # For interactive charts
+# folium>=0.14.0     # For interactive maps
+# redis>=4.6.0       # For advanced caching
+# celery>=5.3.0      # For background tasks
+# prometheus-client>=0.17.0  # For metrics collection
